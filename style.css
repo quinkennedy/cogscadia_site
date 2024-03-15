@@ -1,0 +1,39 @@
+@font-face {
+  font-family: "Urban";
+  src:
+    local("UrbanHeroes"),
+    url("Urban Heroes.ttf") format("truetype");
+}
+body{
+  background-color: lightgrey;
+}
+#title{
+  display:flex;
+}
+h1 {
+  font-family: Urban;
+  font-size: 90pt;
+  text-transform: uppercase;
+}
+h2{
+  font-family: Urban;
+  font-size: 20pt;
+  text-transform: uppercase;
+}
+
+#header_image{
+}
+.themed{
+  text-transform: uppercase;
+  font-family: Urban;
+}
+
+hr {
+    display:block;
+    border:0px;
+    height:40px;
+    background-image:url('img/blaze_rim_long.svg');
+    background-repeat:no-repeat;
+    background-size:contain;
+    background-position: center;
+}
