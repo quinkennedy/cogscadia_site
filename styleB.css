@@ -1,0 +1,74 @@
+@font-face {
+  font-family: "Urban";
+  src:
+    local("UrbanHeroes"),
+    url("Urban Heroes.ttf") format("truetype");
+}
+
+@media (max-width: 575.98px) {
+  h1 {
+    font-size: 11vw;
+  }
+
+  #title {
+    align-items: flex-end;
+  }
+}
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+  h1 {
+    font-size: 12vw;
+  }
+
+  #title {
+    align-items: flex-end;
+  }
+}
+
+@media (min-width: 768px) {
+  h1 {
+    font-size: 90pt;
+  }
+
+  #title {
+    align-items: center;
+  }
+}
+
+body {
+}
+
+#title {
+  display: flex;
+}
+
+h1 {
+  font-family: Urban;
+  text-transform: uppercase;
+}
+
+h2 {
+  font-family: Urban;
+  font-size: 20pt;
+  text-transform: uppercase;
+}
+
+#header_image {
+  max-height: 50vw;
+}
+
+.themed {
+  text-transform: uppercase;
+  font-family: Urban;
+}
+
+hr {
+  display: block;
+  border: 0px;
+  height: 40px;
+  background-image: url('img/blaze_rim_long.svg');
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+  opacity: 1;
+}
