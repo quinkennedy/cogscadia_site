@@ -54,7 +54,8 @@ h1 {
 h2 {
   font-family: Urban;
   font-size: 30pt;
-  color: #243663;
+  color: #001b29;
+  /*color: #243663;*/
 }
 #header_bars{
   /*
@@ -95,7 +96,7 @@ h2 {
   border-bottom-left-radius: 3em;
   margin-top: 2em;
   padding: 0.5em 1em 2em 1em;
-  color: #011b28;
+  color: #001b29;
 }
 
 .s1, .s2, .s3, .s4, .s5{
