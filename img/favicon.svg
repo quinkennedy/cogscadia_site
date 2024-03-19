@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1"
+   width="9.4981689"
+   height="13.754883"
+   viewBox="0 0 9.4981693 13.754883"
+   sodipodi:docname="justin_barrel.svg"
+   inkscape:version="1.3 (0e150ed, 2023-07-21)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect32"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,22.687774,0,1 @ F,0,1,1,0,22.687774,0,1"
+       radius="0"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath21">
+      <path
+         d="M 0,612 H 792 V 0 H 0 Z"
+         transform="translate(-422.29191,-441.04691)"
+         id="path21" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.97192109"
+     inkscape:cx="855.52213"
+     inkscape:cy="54.016731"
+     inkscape:window-width="1344"
+     inkscape:window-height="676"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer-MC0"
+     showgrid="false" />
+  <g
+     id="layer-MC0"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1"
+     transform="translate(-1134.8289,147.89603)">
+    <path
+       id="path31"
+       d="M 4.932,40.132 C 2.277,36.24 0.183,33.041 -2.06,29.95 c -0.803,-1.106 -2.109,-2.184 -3.491,-1.288 -0.792,0.514 -1.443,1.907 -1.424,2.89 0.059,3.194 0.295,6.405 0.749,9.568 2.184,15.211 -6.529,34.192 -20.348,42.65 3.59,-13.25 -3.333,-21.42 -11.745,-29.518 C -49.400125,43.585473 -53.992173,32.49673 -52.480918,19.806897 -51.007464,7.4344735 -35.031708,-2.6081185 -22.516554,-2.1851713 -10.029508,-1.7631581 5.4152493,9.195747 6.4265452,21.601599 6.9193498,27.646973 6.3668112,33.751553 4.932,40.132 Z"
+       style="fill:#eaf2c6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:8.33333"
+       transform="matrix(0.16,0,0,-0.16,1143.2707,-134.49283)"
+       clip-path="url(#clipPath21)"
+       sodipodi:nodetypes="cccccccccc"
+       inkscape:label="favicon"
+       inkscape:export-filename="cogscadia_site/img/favicon.svg"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:path-effect="#path-effect32"
+       inkscape:original-d="M 4.932,40.132 C 2.277,36.24 0.183,33.041 -2.06,29.95 c -0.803,-1.106 -2.109,-2.184 -3.491,-1.288 -0.792,0.514 -1.443,1.907 -1.424,2.89 0.059,3.194 0.295,6.405 0.749,9.568 2.184,15.211 -6.529,34.192 -20.348,42.65 3.59,-13.25 -3.333,-21.42 -11.745,-29.518 C -55.184,38.018 -57.018,20.806 -45.181,-1.54 -28.09551,-3.0518229 -13.440787,-2.1328801 0,0 6.99,13.567 8.067,26.191 4.932,40.132 Z" />
+  </g>
+</svg>
