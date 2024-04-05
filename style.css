@@ -107,6 +107,35 @@ h2 {
   height: 38.6vw;
 }
 
+.social{
+  height:1.5em;
+  margin:0 0.5em;
+}
+
+.sponsor{
+  height:5em;
+  margin:0.5em;
+}
+
+.sch1, .sch2, .sch3{
+  border-top-right-radius: min(1em, 2vw);
+  border-bottom-left-radius: min(1em, 2vw);
+  margin: 0.5em 1em 0 1em;
+  padding: 0.5em 1em 0.5em 1em;
+}
+
+.sch1{
+  background-color: #9fd6b0;
+}
+
+.sch2{
+  background-color: #22b091;
+}
+
+.sch3{
+  background-color: #f3a600;
+}
+
 .c1>div, .c2>div, .c3>div, .c4>div, .c5>div {
   border-top-right-radius: min(3em, 8vw);
   border-bottom-left-radius: min(3em, 8vw);
