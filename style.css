@@ -35,9 +35,14 @@
   }
 }
 
-.c1 .btn {
+.c1 .btn-primary {
   background-color: #df4000;
   border-color: #df4000;
+}
+
+.c1 .btn-secondary {
+  background-color: #8f0024;
+  border-color: #8f0024;
 }
 
 .c4 .btn {
